@@ -14,7 +14,7 @@
     <link href="https://en.wikipedia.org/wiki/Template:Cite_journal" rel="documentation"/>
     <category field="generic-base"/>
     <category citation-format="numeric"/>
-    <updated>2021-10-14T13:30:00+10:00</updated>
+    <updated>2021-12-15T05:48:06+10:00</updated>
   </info>
   <!-- Top level macro which defines what bibliographical format will be returned -->
   <macro name="citations">

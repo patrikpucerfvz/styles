@@ -15,7 +15,7 @@
     <category field="linguistics"/>
     <category field="humanities"/>
     <summary>This only focuses on the citations and references; therefore not handling the separate "Quellenverzeichnis" described in the documentation as well. For "Wörterbücher" and "Grammatiken" the special publication type dictionary-entry has to been choosen and use the title and container-title there then.</summary>
-    <updated>2021-01-28T08:33:55+00:00</updated>
+    <updated>2021-02-10T00:28:52-05:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="de">

@@ -14,7 +14,7 @@
     <category field="medicine"/>
     <issn>2666-1381</issn>
     <summary>A style for many of Elsevier's journals that includes article titles in the reference list</summary>
-    <updated>2021-10-26T08:02:43+00:00</updated>
+    <updated>2021-11-01T01:40:47+01:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
