@@ -33,7 +33,7 @@ jobs:
 
     - name: Release branch version
       id: release
-      run: echo ::set-output name=branch::v1.0.2
+      run: echo ::set-output name=branch::main
     - name: Checkout release branch
       uses: actions/checkout@v4
       with:
